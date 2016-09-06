@@ -40,7 +40,7 @@ public class AppTest
      */
     public void testApp1()
     {
-        assertTrue( true );
+        assertTrue( false );
     }
 
 }
